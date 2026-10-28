@@ -67,7 +67,7 @@ export default function Footer({ scrollTo }: FooterProps) {
           <div className="pt-8 flex flex-col sm:flex-row items-center justify-between text-[11px] text-[#D89EA5] gap-4">
             <p>© 2026 Amora Nail Atelier · Marca conceitual</p>
             <p>Layout demonstrativo · Imagens, valores e agenda ilustrativos</p>
-            <p className="hover:text-white cursor-pointer">Privacidade</p>
+            <p className="hover:text-white cursor-pointer">Web site desenvolvido por Duanny Santos</p>
           </div>
         </div>
       </footer>
